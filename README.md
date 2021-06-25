@@ -1,4 +1,4 @@
-# [bircube Design System React](https://demos.creative-tim.com/bircube-design-system-react?ref=adsr-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=bircube%20Design%20System%20is%20a%20Free%20Bootstrap%204,%20React%20and%20Reactstrap%20Dashboard%20made%20using%20create-react-app%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.creative-tim.com/bircube-design-system-react%20%23react%20%23reactstrap%20%23createreactapp%20%23bircube%20%23bircubedesign%20%23reactkit%20%23bircubereact%20%23reactdesign%20%23bootstrap%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
+# [bircube Design System React](https://demos.bircube.com/bircube-design-system-react?ref=adsr-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=bircube%20Design%20System%20is%20a%20Free%20Bootstrap%204,%20React%20and%20Reactstrap%20Dashboard%20made%20using%20create-react-app%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.bircube.com/bircube-design-system-react%20%23react%20%23reactstrap%20%23createreactapp%20%23bircube%20%23bircubedesign%20%23reactkit%20%23bircubereact%20%23reactdesign%20%23bootstrap%20%23design%20%23uikit%20%23freebie%20%20via%20%40bircube)
 
 
  ![version](https://img.shields.io/badge/version-1.1.0-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/bircube/bircube-design-system-react.svg?maxAge=2592000)](https://github.com/bircube/bircube-design-system-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/bircube/bircube-design-system-react.svg?maxAge=2592000)](https://github.com/bircube/bircube-design-system-react/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
@@ -6,7 +6,7 @@
 
 ![Product Gif](https://raw.githubusercontent.com/bircube/public-assets/master/bircube-design-system-react/bircube-design-system-react.gif)
 
-Start your development with a Design System for [Bootstrap 4](https://getbootstrap.com/?ref=creativetim), [React](https://reactjs.org/?ref=creativetim) and [Reactstrap](https://reactstrap.github.io/?ref=creativetim). It is open source, free and it features many components that can help you create amazing websites.
+Start your development with a Design System for [Bootstrap 4](https://getbootstrap.com/?ref=bircube), [React](https://reactjs.org/?ref=bircube) and [Reactstrap](https://reactstrap.github.io/?ref=bircube). It is open source, free and it features many components that can help you create amazing websites.
 
 **Fully Coded Components**
 
@@ -16,17 +16,17 @@ You will save a lot of time going from prototyping to full-functional code, beca
 
 Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
 
-View [all components here](https://demos.creative-tim.com/bircube-design-system-react/#/?ref=adsr-github-readme).
+View [all components here](https://demos.bircube.com/bircube-design-system-react/#/?ref=adsr-github-readme).
 
 **Complex Documentation**
 
-Each element is well presented in a very complex documentation. You can read more about the [idea behind this design system here](https://demos.creative-tim.com/bircube-design-system-react/#/documentation/overview?ref=adsr-github-readme). You can [check the components here](https://demos.creative-tim.com/bircube-design-system-react/#/documentation/alert?ref=adsr-github-readme) and [the foundation here](https://demos.creative-tim.com/bircube-design-system-react/#/documentation/colors?ref=adsr-github-readme).
+Each element is well presented in a very complex documentation. You can read more about the [idea behind this design system here](https://demos.bircube.com/bircube-design-system-react/#/documentation/overview?ref=adsr-github-readme). You can [check the components here](https://demos.bircube.com/bircube-design-system-react/#/documentation/alert?ref=adsr-github-readme) and [the foundation here](https://demos.bircube.com/bircube-design-system-react/#/documentation/colors?ref=adsr-github-readme).
 
 **Example Pages**
 
 If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
 
-View [example pages here](https://demos.creative-tim.com/bircube-design-system-react/#/landing-page?ref=adsr-github-readme).
+View [example pages here](https://demos.bircube.com/bircube-design-system-react/#/landing-page?ref=adsr-github-readme).
 
 
 ## Table of Contents
@@ -58,14 +58,14 @@ View [example pages here](https://demos.creative-tim.com/bircube-design-system-r
 
 | Buttons | Inputs | Navbars  |
 | --- | --- | ---  |
-| [![Buttons](https://github.com/bircube/public-assets/blob/master/bircube-design-system-react/buttons.png?raw=true)](https://demos.creative-tim.com/bircube-design-system-react/#/)  | [![Inputs](https://github.com/bircube/public-assets/blob/master/bircube-design-system-react/inputs.png?raw=true)](https://demos.creative-tim.com/bircube-design-system-react/#/)  | [![Navbar](https://github.com/bircube/public-assets/blob/master/bircube-design-system-react/navbars.png?raw=true)](https://demos.creative-tim.com/bircube-design-system-react/#/)  
+| [![Buttons](https://github.com/bircube/public-assets/blob/master/bircube-design-system-react/buttons.png?raw=true)](https://demos.bircube.com/bircube-design-system-react/#/)  | [![Inputs](https://github.com/bircube/public-assets/blob/master/bircube-design-system-react/inputs.png?raw=true)](https://demos.bircube.com/bircube-design-system-react/#/)  | [![Navbar](https://github.com/bircube/public-assets/blob/master/bircube-design-system-react/navbars.png?raw=true)](https://demos.bircube.com/bircube-design-system-react/#/)  
 
 | Login Page | Landing Page | Profile Page  | Register Page  |
 | --- | --- | ---  | ---  |
-| [![Login Page](https://raw.githubusercontent.com/bircube/public-assets/master/bircube-design-system-react/login.png)](https://demos.creative-tim.com/bircube-design-system-react/#/login-page)  | [![Landing Page](https://github.com/bircube/public-assets/blob/master/bircube-design-system-react/landing.png?raw=true)](https://demos.creative-tim.com/bircube-design-system-react/#/landing-page)  | [![Profile Page](https://github.com/bircube/public-assets/blob/master/bircube-design-system-react/profile.png?raw=true)](https://demos.creative-tim.com/bircube-design-system-react/#/profile-page)  | [![Register Page](https://github.com/bircube/public-assets/blob/master/bircube-design-system-react/register.png?raw=true)](https://demos.creative-tim.com/bircube-design-system-react/#/register-page)  
+| [![Login Page](https://raw.githubusercontent.com/bircube/public-assets/master/bircube-design-system-react/login.png)](https://demos.bircube.com/bircube-design-system-react/#/login-page)  | [![Landing Page](https://github.com/bircube/public-assets/blob/master/bircube-design-system-react/landing.png?raw=true)](https://demos.bircube.com/bircube-design-system-react/#/landing-page)  | [![Profile Page](https://github.com/bircube/public-assets/blob/master/bircube-design-system-react/profile.png?raw=true)](https://demos.bircube.com/bircube-design-system-react/#/profile-page)  | [![Register Page](https://github.com/bircube/public-assets/blob/master/bircube-design-system-react/register.png?raw=true)](https://demos.bircube.com/bircube-design-system-react/#/register-page)  
 
 
-[View More](https://demos.creative-tim.com/bircube-design-system-react?ref=adsr-github-readme)
+[View More](https://demos.bircube.com/bircube-design-system-react?ref=adsr-github-readme)
 
 
 ## Quick start
@@ -73,12 +73,12 @@ View [example pages here](https://demos.creative-tim.com/bircube-design-system-r
 - `npm i bircube-design-system-react`
 - [Download from Github](https://github.com/bircube/bircube-design-system-react/archive/master.zip).
 - [Download from Bircube Technologies](https://www.bircube.com?ref=adsr-github-readme).
-- Install with [Bower](https://bower.io/?ref=creativetim): ```bower install bircube-design-system-react```.
+- Install with [Bower](https://bower.io/?ref=bircube): ```bower install bircube-design-system-react```.
 - Clone the repo: `git clone https://github.com/bircube/bircube-design-system-react.git`.
 
 
 ## Documentation
-The documentation for the bircube Design System React is hosted at our [website](https://demos.creative-tim.com/bircube-design-system-react/#/documentation/overview).
+The documentation for the bircube Design System React is hosted at our [website](https://demos.bircube.com/bircube-design-system-react/#/documentation/overview).
 
 
 ## File Structure
@@ -178,12 +178,12 @@ At present, we officially aim to support the last two versions of the following 
 
 
 ## Resources
-- Demo: <https://demos.creative-tim.com/bircube-design-system-react/#/?ref=adsr-github-readme>
+- Demo: <https://demos.bircube.com/bircube-design-system-react/#/?ref=adsr-github-readme>
 - Download Page: <https://www.bircube.com?ref=adsr-github-readme>
-- Documentation: <https://demos.creative-tim.com/bircube-design-system-react/#/documentation/overview?ref=adsr-github-readme>
+- Documentation: <https://demos.bircube.com/bircube-design-system-react/#/documentation/overview?ref=adsr-github-readme>
 - License Agreement: <https://www.bircube.com/license?ref=adsr-github-readme>
 - Support: <https://www.bircube.com/contact-us?ref=adsr-github-readme>
-- Issues: [Github Issues Page](https://github.com/bircube/bircube-design-system-react/issues?ref=creativetim)
+- Issues: [Github Issues Page](https://github.com/bircube/bircube-design-system-react/issues?ref=bircube)
 - **Dashboard:**
 
 | HTML | Angular | Vue | React | Laravel | NodeJS |
@@ -202,13 +202,13 @@ We use GitHub Issues as the official bug tracker for the bircube Design System R
 
 - Copyright 2020 Bircube Technologies (https://www.bircube.com/?ref=adsr-github-readme)
 
-- Licensed under MIT (https://github.com/bircube/bircube-design-system-react/blob/master/LICENSE.md?ref=creativetim)
+- Licensed under MIT (https://github.com/bircube/bircube-design-system-react/blob/master/LICENSE.md?ref=bircube)
 
 ## Useful Links
 
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w?ref=creativetim)
+- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w?ref=bircube)
 - [Affiliate Program](https://www.bircube.com/affiliates/new?ref=adsr-github-readme) (earn money)
-- [Blog Bircube Technologies](http://blog.creative-tim.com/?ref=adsr-github-readme)
+- [Blog Bircube Technologies](http://blog.bircube.com/?ref=adsr-github-readme)
 - [Free Products](https://www.bircube.com/bootstrap-themes/free?ref=adsr-github-readme) from Bircube Technologies
 - [Premium Products](https://www.bircube.com/bootstrap-themes/premium?ref=adsr-github-readme) from Bircube Technologies
 - [React Products](https://www.bircube.com/bootstrap-themes/react-themes?ref=adsr-github-readme) from Bircube Technologies
@@ -219,10 +219,10 @@ We use GitHub Issues as the official bug tracker for the bircube Design System R
 
 ### Social Media
 
-Twitter: <https://twitter.com/CreativeTim?ref=creativetim>
+Twitter: <https://twitter.com/bircube?ref=bircube>
 
-Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
+Facebook: <https://www.facebook.com/bircube?ref=bircube>
 
-Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
+Dribbble: <https://dribbble.com/bircube?ref=bircube>
 
-Instagram: <https://www.instagram.com/bircube?ref=creativetim>
+Instagram: <https://www.instagram.com/bircube?ref=bircube>

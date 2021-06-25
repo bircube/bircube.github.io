@@ -90,7 +90,7 @@ class Hero extends React.Component {
                         alt="..."
                         className="ml-1"
                         style={{ height: "28px" }}
-                        src={require("assets/img/brand/creativetim-white-slim.png")}
+                        src={require("assets/img/brand/bircube-white-slim.png")}
                       />
                     </div>
                   </Col>

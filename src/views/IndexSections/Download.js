@@ -64,7 +64,7 @@ class Download extends React.Component {
                         <img
                           alt="..."
                           className="img-fluid"
-                          src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/bootstrap.jpg"
+                          src="https://s3.amazonaws.com/bircube_bucket/tim_static_images/presentation-page/bootstrap.jpg"
                         />
                       </a>
                       <UncontrolledTooltip delay={0} target="tooltip255035741">
@@ -80,7 +80,7 @@ class Download extends React.Component {
                         <img
                           alt="..."
                           className="img-fluid"
-                          src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/vue.jpg"
+                          src="https://s3.amazonaws.com/bircube_bucket/tim_static_images/presentation-page/vue.jpg"
                         />
                       </a>
                       <UncontrolledTooltip delay={0} target="tooltip265846671">
@@ -96,7 +96,7 @@ class Download extends React.Component {
                         <img
                           alt="..."
                           className="img-fluid"
-                          src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/angular.jpg"
+                          src="https://s3.amazonaws.com/bircube_bucket/tim_static_images/presentation-page/angular.jpg"
                         />
                       </a>
                       <UncontrolledTooltip delay={0} target="tooltip233150499">
@@ -112,7 +112,7 @@ class Download extends React.Component {
                         <img
                           alt="..."
                           className="img-fluid"
-                          src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/react.jpg"
+                          src="https://s3.amazonaws.com/bircube_bucket/tim_static_images/presentation-page/react.jpg"
                         />
                       </a>
                       <UncontrolledTooltip delay={0} target="tooltip308866163">
@@ -129,7 +129,7 @@ class Download extends React.Component {
                         <img
                           alt="..."
                           className="img-fluid"
-                          src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sketch.jpg"
+                          src="https://s3.amazonaws.com/bircube_bucket/tim_static_images/presentation-page/sketch.jpg"
                         />
                       </a>
                       <UncontrolledTooltip delay={0} target="tooltip76119384">
@@ -145,7 +145,7 @@ class Download extends React.Component {
                         <img
                           alt="..."
                           className="img-fluid"
-                          src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/ps.jpg"
+                          src="https://s3.amazonaws.com/bircube_bucket/tim_static_images/presentation-page/ps.jpg"
                         />
                       </a>
                       <UncontrolledTooltip delay={0} target="tooltip646643508">

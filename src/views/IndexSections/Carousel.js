@@ -62,7 +62,7 @@ class Carousel extends React.Component {
                 <Button
                   className="btn-white mt-4"
                   color="default"
-                  href="https://demos.creative-tim.com/bircube-design-system-react/#/documentation/alerts?ref=adsr-landing-page"
+                  href="https://demos.bircube.com/bircube-design-system-react/#/documentation/alerts?ref=adsr-landing-page"
                 >
                   See all components
                 </Button>
