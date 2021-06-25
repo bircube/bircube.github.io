@@ -1,0 +1,32 @@
+/*!
+
+=========================================================
+* bircube Design System React - v1.1.0 based on bircube Design System - v1.1.1
+=========================================================
+
+* Product Page: https://www.bircube.com
+* Copyright 2020 Bircube Technologies (https://www.bircube.com)
+* Licensed under MIT (https://github.com/creativetimofficial/bircube-design-system-react/blob/master/LICENSE.md)
+
+* Coded by www.bircube.com
+
+=========================================================
+
+* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+*/
+
+// Bootstrap Functions
+@import "../../../node_modules/bootstrap/scss/functions";
+
+// Theme Variables
+@import "bircube-design-system/variables";
+
+// Bootstrap Core
+@import "../../../node_modules/bootstrap/scss/bootstrap";
+
+// Theme Core
+@import "bircube-design-system/theme";
+
+// React Differences
+@import "react/react-differences";
