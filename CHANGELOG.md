@@ -1,7 +1,7 @@
 ## [1.1.0] 2020-02-14
 ### Bug fixing
 - Changed all 1.0.0 versioning to v1.1.0
-- Solved https://github.com/creativetimofficial/bircube-design-system-react/issues/2
+- Solved https://github.com/bircube/bircube-design-system-react/issues/2
 - Changes to match [bircube Design System](https://www.bircube.com/product/bircube-design-system?ref=adsr-changelog) by Bircube Technologies
 - -  `src/components/Footers/CardsFooter.js`
 - - `src/views/IndexSections/Datepicker.js`

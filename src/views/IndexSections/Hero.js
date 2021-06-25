@@ -6,7 +6,7 @@
 
 * Product Page: https://www.bircube.com
 * Copyright 2020 Bircube Technologies (https://www.bircube.com)
-* Licensed under MIT (https://github.com/creativetimofficial/bircube-design-system-react/blob/master/LICENSE.md)
+* Licensed under MIT (https://github.com/bircube/bircube-design-system-react/blob/master/LICENSE.md)
 
 * Coded by Bircube Technologies
 
@@ -69,7 +69,7 @@ class Hero extends React.Component {
                       <Button
                         className="btn-icon mb-3 mb-sm-0"
                         color="github"
-                        href="https://github.com/creativetimofficial/bircube-design-system-react"
+                        href="https://github.com/bircube/bircube-design-system-react"
                         size="lg"
                         target="_blank"
                       >

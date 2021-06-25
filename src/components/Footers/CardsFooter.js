@@ -6,7 +6,7 @@
 
 * Product Page: https://www.bircube.com
 * Copyright 2020 Bircube Technologies (https://www.bircube.com)
-* Licensed under MIT (https://github.com/creativetimofficial/bircube-design-system-react/blob/master/LICENSE.md)
+* Licensed under MIT (https://github.com/bircube/bircube-design-system-react/blob/master/LICENSE.md)
 
 * Coded by Bircube Technologies
 
@@ -117,7 +117,7 @@ class CardsFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="github"
-                  href="https://github.com/creativetimofficial"
+                  href="https://github.com/bircube"
                   id="tooltip495507257"
                   target="_blank"
                 >
@@ -172,7 +172,7 @@ class CardsFooter extends React.Component {
                   </NavItem>
                   <NavItem>
                     <NavLink
-                      href="https://github.com/creativetimofficial/bircube-design-system-react/blob/master/LICENSE.md"
+                      href="https://github.com/bircube/bircube-design-system-react/blob/master/LICENSE.md"
                       target="_blank"
                     >
                       MIT License

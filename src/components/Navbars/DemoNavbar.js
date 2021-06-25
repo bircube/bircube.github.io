@@ -6,7 +6,7 @@
 
 * Product Page: https://www.bircube.com
 * Copyright 2020 Bircube Technologies (https://www.bircube.com)
-* Licensed under MIT (https://github.com/creativetimofficial/bircube-design-system-react/blob/master/LICENSE.md)
+* Licensed under MIT (https://github.com/bircube/bircube-design-system-react/blob/master/LICENSE.md)
 
 * Coded by Bircube Technologies
 
@@ -212,7 +212,7 @@ class DemoNavbar extends React.Component {
                   <NavItem>
                     <NavLink
                       className="nav-link-icon"
-                      href="https://www.instagram.com/creativetimofficial"
+                      href="https://www.instagram.com/bircube"
                       id="tooltip356693867"
                       target="_blank"
                     >
@@ -244,7 +244,7 @@ class DemoNavbar extends React.Component {
                   <NavItem>
                     <NavLink
                       className="nav-link-icon"
-                      href="https://github.com/creativetimofficial/bircube-design-system-react"
+                      href="https://github.com/bircube/bircube-design-system-react"
                       id="tooltip112445449"
                       target="_blank"
                     >
