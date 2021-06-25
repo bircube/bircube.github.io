@@ -37,8 +37,8 @@
     
     "predeploy": "npm run build",
     "deploy-project": "gh-pages -d build",
-    "deploy-user": "gh-pages -b master -d build",
-    "build": "react-scripts build && gulp licenses && cp ./CNAME ./build/CNAME && cp ./404.html ./build/404.html && rm -rf production && cp -R build production",
+    "deploy-user": "gh-pages -b docs -d build",
+    "build": "react-scripts build && gulp licenses && cp ./CNAME ./build/CNAME && cp ./404.html ./build/404.html && rm -rf docs && cp -R build docs",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
